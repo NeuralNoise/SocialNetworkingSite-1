@@ -1,0 +1,88 @@
+ *{
+    box-sizing: border-box;
+    font-size: 13px;
+    font-family: tahoma;
+  }
+
+  .image-avatar-m{
+  	height:50px;
+  	width: 50px;
+  }
+
+  .image-avatar-s{
+  	height:40px;
+  	width: 40px;
+  }
+
+  .image-avatar-l{
+  	height:70px;
+  	width: 70px;
+  }
+
+
+  .friendlist-name{
+  	font-weight: bold;
+  	color:white;
+  }
+
+  div.friendlist{
+  	position:relative;
+  	top:-10px;
+  	background-color: rgba(0, 0, 0,0.6);
+  	 margin: 0px;
+  }
+
+  .well{
+  	background-color: white;
+  	border-radius: 0px;
+  	box-shadow: 0px 0px 0px;
+  }
+
+  body{
+    background-color: #E9EBEE;
+  }
+
+
+  button.button{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border-radius: 0px;
+    font-weight: bold;
+  }
+
+  button.commentbutton{
+    border-radius: 0px;
+    font-weight: bold;
+
+  }
+
+.outerbox1{
+  background-color: #FFFFFF; 
+  bottom-margin:2%; 
+  border-radius: 0.5%; 
+  padding:0px;
+  border-radius: 0px;
+   box-shadow: 0px 0px 0px;
+}
+
+.outerbox2{
+  background-color: #FFFFFF; 
+  padding: 2.5% 2.5% 2.5% 2.5% ;
+}
+
+div.commentsection{
+    background-color: #F6F7F9;
+    margin:0px;
+
+  }
+
+.sidebar_right{
+  background-color: white;  
+  border-radius: 1%;
+}
+
+h2{
+  font-size:20px;
+}
